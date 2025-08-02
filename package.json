@@ -1,0 +1,21 @@
+{
+  "name": "27th-june-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winifred19/Newbies-Edge-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winifred19/Newbies-Edge-/issues"
+  },
+  "homepage": "https://github.com/Winifred19/Newbies-Edge-#readme",
+  "description": ""
+}
